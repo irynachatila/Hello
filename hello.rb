@@ -1,1 +1,1 @@
-puts "My first Ruby application. Testing..."
+puts "Hello, #{ARGV.first}!"
