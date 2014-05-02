@@ -1,1 +1,3 @@
-puts "My first Ruby application. Testing..."
+name = ARGV.first || "World"
+
+puts "Hello, #{name}!"
